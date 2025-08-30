@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\BaiTapWindowsForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|d:\\study\\baitapwindowsform\\baitapwindowsform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|solutionrelative:baitapwindowsform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|d:\\study\\baitapwindowsform\\baitapwindowsform\\frmbai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|solutionrelative:baitapwindowsform\\frmbai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|d:\\study\\baitapwindowsform\\baitapwindowsform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|solutionrelative:baitapwindowsform\\frmbai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|d:\\study\\baitapwindowsform\\baitapwindowsform\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|solutionrelative:baitapwindowsform\\frmchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|d:\\study\\baitapwindowsform\\baitapwindowsform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|solutionrelative:baitapwindowsform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|d:\\study\\baitapwindowsform\\baitapwindowsform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4500496-88A1-4D54-B781-0A303F1697E3}|BaiTapWindowsForm\\BaiTapWindowsForm.csproj|solutionrelative:baitapwindowsform\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBai4.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmBai4.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapWindowsForm\\frmBai4.Designer.cs",
+              "ToolTip": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmBai4.Designer.cs",
+              "RelativeToolTip": "BaiTapWindowsForm\\frmBai4.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T14:03:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBai4.cs",
+              "DocumentMoniker": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmBai4.cs",
+              "RelativeDocumentMoniker": "BaiTapWindowsForm\\frmBai4.cs",
+              "ToolTip": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmBai4.cs",
+              "RelativeToolTip": "BaiTapWindowsForm\\frmBai4.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:46:34.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBai4.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmBai4.cs",
+              "RelativeDocumentMoniker": "BaiTapWindowsForm\\frmBai4.cs",
+              "ToolTip": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmBai4.cs [Design]",
+              "RelativeToolTip": "BaiTapWindowsForm\\frmBai4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:40:58.458Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmChinh.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmChinh.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapWindowsForm\\frmChinh.Designer.cs",
+              "ToolTip": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmChinh.Designer.cs",
+              "RelativeToolTip": "BaiTapWindowsForm\\frmChinh.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAswFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:02:15.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmChinh.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmChinh.cs",
+              "RelativeDocumentMoniker": "BaiTapWindowsForm\\frmChinh.cs",
+              "ToolTip": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmChinh.cs [Design]",
+              "RelativeToolTip": "BaiTapWindowsForm\\frmChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:01:08.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmChinh.cs",
+              "DocumentMoniker": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmChinh.cs",
+              "RelativeDocumentMoniker": "BaiTapWindowsForm\\frmChinh.cs",
+              "ToolTip": "D:\\Study\\BaiTapWindowsForm\\BaiTapWindowsForm\\frmChinh.cs",
+              "RelativeToolTip": "BaiTapWindowsForm\\frmChinh.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:05:24.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

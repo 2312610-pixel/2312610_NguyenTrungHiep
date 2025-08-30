@@ -1,0 +1,14 @@
+D:\Study\BTWindownForm2\BTWindownForm2\bin\Debug\BTWindownForm2.exe.config
+D:\Study\BTWindownForm2\BTWindownForm2\bin\Debug\BTWindownForm2.exe
+D:\Study\BTWindownForm2\BTWindownForm2\bin\Debug\BTWindownForm2.pdb
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.csproj.AssemblyReference.cache
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.frmBai1.resources
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.frmChinh.resources
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.Properties.Resources.resources
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.csproj.GenerateResource.cache
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.csproj.CoreCompileInputs.cache
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.exe
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.pdb
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.exe.config
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.frmBai2.resources
+D:\Study\BTWindownForm2\BTWindownForm2\obj\Debug\BTWindownForm2.frmBai3.resources

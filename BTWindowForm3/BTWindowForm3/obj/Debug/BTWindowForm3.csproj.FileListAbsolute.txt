@@ -1,0 +1,14 @@
+D:\Study\BTWindowForm3\BTWindowForm3\bin\Debug\BTWindowForm3.exe.config
+D:\Study\BTWindowForm3\BTWindowForm3\bin\Debug\BTWindowForm3.exe
+D:\Study\BTWindowForm3\BTWindowForm3\bin\Debug\BTWindowForm3.pdb
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.csproj.AssemblyReference.cache
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.frmBai1.resources
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.frmChinh.resources
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.Properties.Resources.resources
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.csproj.GenerateResource.cache
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.csproj.CoreCompileInputs.cache
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.exe
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.pdb
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.exe.config
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.frmBai2.resources
+D:\Study\BTWindowForm3\BTWindowForm3\obj\Debug\BTWindowForm3.frmBai3.resources

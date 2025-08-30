@@ -1,0 +1,14 @@
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.csproj.AssemblyReference.cache
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.frmBai1.resources
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.frmBai2.resources
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.frmChinh.resources
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.Properties.Resources.resources
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.csproj.GenerateResource.cache
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.csproj.CoreCompileInputs.cache
+D:\Study\BTWindowsForm\BTWindowsForm\bin\Debug\BTWindowsForm.exe.config
+D:\Study\BTWindowsForm\BTWindowsForm\bin\Debug\BTWindowsForm.exe
+D:\Study\BTWindowsForm\BTWindowsForm\bin\Debug\BTWindowsForm.pdb
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.exe
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.pdb
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.exe.config
+D:\Study\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.frmBai3.resources

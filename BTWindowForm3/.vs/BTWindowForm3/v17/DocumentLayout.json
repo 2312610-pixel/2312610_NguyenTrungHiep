@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\BTWindowForm3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD89EC5-602C-4912-91A0-77394491FDEE}|BTWindowForm3\\BTWindowForm3.csproj|d:\\study\\btwindowform3\\btwindowform3\\frmbai3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD89EC5-602C-4912-91A0-77394491FDEE}|BTWindowForm3\\BTWindowForm3.csproj|solutionrelative:btwindowform3\\frmbai3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD89EC5-602C-4912-91A0-77394491FDEE}|BTWindowForm3\\BTWindowForm3.csproj|d:\\study\\btwindowform3\\btwindowform3\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD89EC5-602C-4912-91A0-77394491FDEE}|BTWindowForm3\\BTWindowForm3.csproj|solutionrelative:btwindowform3\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD89EC5-602C-4912-91A0-77394491FDEE}|BTWindowForm3\\BTWindowForm3.csproj|d:\\study\\btwindowform3\\btwindowform3\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD89EC5-602C-4912-91A0-77394491FDEE}|BTWindowForm3\\BTWindowForm3.csproj|solutionrelative:btwindowform3\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD89EC5-602C-4912-91A0-77394491FDEE}|BTWindowForm3\\BTWindowForm3.csproj|d:\\study\\btwindowform3\\btwindowform3\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BBD89EC5-602C-4912-91A0-77394491FDEE}|BTWindowForm3\\BTWindowForm3.csproj|solutionrelative:btwindowform3\\frmbai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBai3.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\BTWindowForm3\\BTWindowForm3\\frmBai3.Designer.cs",
+              "RelativeDocumentMoniker": "BTWindowForm3\\frmBai3.Designer.cs",
+              "ToolTip": "D:\\Study\\BTWindowForm3\\BTWindowForm3\\frmBai3.Designer.cs",
+              "RelativeToolTip": "BTWindowForm3\\frmBai3.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAswIsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T13:03:02.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBai3.cs",
+              "DocumentMoniker": "D:\\Study\\BTWindowForm3\\BTWindowForm3\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BTWindowForm3\\frmBai3.cs",
+              "ToolTip": "D:\\Study\\BTWindowForm3\\BTWindowForm3\\frmBai3.cs",
+              "RelativeToolTip": "BTWindowForm3\\frmBai3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T13:02:10.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TinhToan.cs",
+              "DocumentMoniker": "D:\\Study\\BTWindowForm3\\BTWindowForm3\\TinhToan.cs",
+              "RelativeDocumentMoniker": "BTWindowForm3\\TinhToan.cs",
+              "ToolTip": "D:\\Study\\BTWindowForm3\\BTWindowForm3\\TinhToan.cs",
+              "RelativeToolTip": "BTWindowForm3\\TinhToan.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T12:04:13.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBai3.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\BTWindowForm3\\BTWindowForm3\\frmBai3.cs",
+              "RelativeDocumentMoniker": "BTWindowForm3\\frmBai3.cs",
+              "ToolTip": "D:\\Study\\BTWindowForm3\\BTWindowForm3\\frmBai3.cs [Design]",
+              "RelativeToolTip": "BTWindowForm3\\frmBai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T12:21:36.667Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
